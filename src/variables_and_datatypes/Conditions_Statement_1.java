@@ -2,7 +2,7 @@ package variables_and_datatypes;
 
 import java.util.Scanner;
 
-public class Conditions_Statement_Question_no_1 {
+public class Conditions_Statement_1 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter The Numbers1:");

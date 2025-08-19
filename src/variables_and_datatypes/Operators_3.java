@@ -1,6 +1,6 @@
 package variables_and_datatypes;
 
-public class Operator_3 {
+public class Operators_3 {
     public static void main(String[] args) {
         int x=10, y=5;
 
